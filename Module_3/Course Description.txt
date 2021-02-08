@@ -1,0 +1,4 @@
+Module 3:  Statistical Distributions, Sampling, and Hypotheses Testing
+Instructor: Nawar Shara, PhD
+Description:  
+This module will introduce you to basic probability and statistical concepts. You will learn about different descriptive and inferential statistical techniques that are utilized in data science. You will learn about commonly used statistical distributions functions including Binomial, Poisson, and Normal distributions. You will understand and learn about appropriate way to formulate hypotheses statements and select appropriate statistical techniques for testing.

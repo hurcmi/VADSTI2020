@@ -1,0 +1,4 @@
+Module 4: Cluster Analysis 
+Instructor: Martin Skarzynski, PhD 
+Description:  
+Module will discuss Data Description and Clustering. Similarity measures and dimensionality reduction will be discussed. Learn about k-means algorithm, and hierarchical clustering. Unsupervised learning with clinical and/or genomic dataset will used for illustration. 

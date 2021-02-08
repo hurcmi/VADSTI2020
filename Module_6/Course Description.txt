@@ -1,0 +1,4 @@
+Module 6: Classification Models
+Instructor:  Prem Saggar, PhD
+Description:  
+You will understand Classification methods, and how they differ from rules-based systems. Learn about discriminant analysis, and the k-nearest neighbor classifier.  Working examples are illustrated with Classification Trees and Neural Network models. 

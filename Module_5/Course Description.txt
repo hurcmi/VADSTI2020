@@ -1,0 +1,4 @@
+Module 5:  Neural Network Models 
+Instructor: Gloria Washington, PhD
+Description: 
+The module will introduce you to machine learning and neural networks. Supervised learning, linear models for regression, and basic neural network structure will be discussed. The expected competencies are to (i) understand the motivation and functioning of the most common types of deep neural networks, (ii) understand the choices and limitations of a model for a given setting, (iii) apply deep learning techniques to practical problems and (iv) critically evaluate model performance and interpret results. You will learn to design neural network architectures and training procedures through hands-on activities. 
