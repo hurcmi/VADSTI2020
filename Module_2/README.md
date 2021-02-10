@@ -1,4 +1,7 @@
 # Virtual Applied Data Science Training Program
+# VADSTI 2021 Theme: “Data Science Approaches to Better Understand Clinical and Genomic Informatics”
+
+![alt text](https://the1joshuagroup.com/VADSTI/assets/img/HU-RCMI-Logo-Dark.gif)
 
 # Module 2: Data Exploration and Visualization
 
